@@ -3,4 +3,6 @@ window.onload=function(){
 	box[0].addEventListener('click' ,()=>{
 		alert('这是测试代码');
 	})
+
+	console.log('这是testbranch1中的代码');
 }

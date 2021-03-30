@@ -5,4 +5,6 @@ window.onload=function(){
 	})
 
 	console.log('这是testbranch1中的代码');
+
+	console.log("这是master修改的代码");
 }

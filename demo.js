@@ -3,5 +3,5 @@ window.onload=function(){
 	box[0].addEventListener('click' ,()=>{
 		alert('这是测试代码');
 	})
-	console.log('这是demo1-imooc');
+	console.log('这是demo111-imooc');
 }

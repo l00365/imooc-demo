@@ -7,4 +7,5 @@ window.onload=function(){
 	console.log('这是testbranch1中的代码');
 
 	console.log("这是master修改js代码");
+	console.log('demo.js文件夹2中的修改');
 }

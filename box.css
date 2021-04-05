@@ -1,4 +1,7 @@
 .box{
 	color:red;
 	border:1px solid green;
+	font-size: 20px;
+	line-height: 20px;
+	/*demo1文件夹的修改*/
 }
